@@ -3,11 +3,15 @@
   "summary": {
     "title": "New Threat Model",
     "owner": "",
-    "description": "",
+    "description": "dsd\n",
     "id": 0
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "ffds"
+      }
+    ],
     "diagrams": [
       {
         "id": 0,
@@ -16,10 +20,29 @@
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.4.1",
+        "cells": [],
+        "description": "fds"
+      },
+      {
+        "id": 1,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": []
+      },
+      {
+        "id": 2,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
         "cells": []
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 3,
     "reviewer": "",
     "threatTop": 0
   }
